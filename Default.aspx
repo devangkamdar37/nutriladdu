@@ -89,7 +89,7 @@
                 <div class="cols-lg row">
                     <div class="col-lg-6 d-flex">
                         <div class="m-auto col-auto entity-image">
-                            <img class="img-fluid" src="/assets/images/products/BestSeller_Chocolate_new.png" alt="Chocolate">
+                            <img class="img-fluid" src="/assets/images/products/BestSeller_Chocolate.png" alt="Chocolate">
                         </div>
                     </div>
                     <div class="col align-self-center">

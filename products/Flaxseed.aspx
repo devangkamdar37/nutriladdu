@@ -142,21 +142,40 @@
                                 <div class="position-relative entity-image bg-flaxseed">
                                     <img class="w-100" src="/assets/images/products/Flaxseed.png" alt="Flaxseed">
                                 </div>
+                            </div>
+                            <div class="col-md-6">
+                                <h2 class="mb-2 entity-title">Flaxseed</h2>
+                                <div class="mb-3 entity-price"><span class="entity-price-current">$9.95 (Box of 5 Pouches)</span></div>
+                                <a class="btn-wide mr-2 btn btn-theme" href="https://www.amazon.com/Indian-Energy-Single-Pouches-Variety/dp/B09P72244C/ref=sr_1_1?crid=3AHH7YYUE7YME&keywords=nutri%2Bladdu&qid=1641355231&sprefix=nutri%2Bladdu%2Caps%2C82&sr=8-1&th=1" target="_blank">
+                                    <img src="/assets/images/logo/amazon.png" class="btn-amazon" />Buy Now On Amazon</a>
 
-                                <div class="mt-4 mb-4 entity-body">
+                                <div class="font-weight-semibold entity-details-list mt-4">
+                                    <section class="customer-logos slider">
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/flaxseed/1.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/flaxseed/2.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/flaxseed/3.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/flaxseed/4.png" />
+                                        </div>
+                                    </section>
+                                </div>
+
+                            </div>
+                            <div class="col-md-12">
+                                <div class="mb-4 entity-body">
                                     <p>Enjoy this delicious guilt free snack that will satisfy your cravings and provide an energy boost to get you through the day. Our mouth-watering nutrient-dense energy balls are made with healthy ingredients with a base of nuts and dates. Dates are naturally sweet and high in fiber and disease-fighting antioxidants while nuts have healthy fats and are a great source of fiber and protein.</p>
                                 </div>
 
                                 <div class="mb-4 entity-body">
                                     <p>The Flaxseed flavor is mild and perfectly nutty with a deep earthy appeal that increases your natural energy. Our energy balls are packaged in pairs in a resealable pouch so they stay fresh and you can snack conveniently. It’s time to indulge and feel great!</p>
                                 </div>
-                            </div>
-                            <div class="col">
-                                <h2 class="mb-2 entity-title">Flaxseed</h2>
-                                <div class="mb-3 entity-price"><span class="entity-price-current">$9.95 (Box of 5 Pouches)</span></div>
-                                <a class="btn-wide mr-2 btn btn-theme" href="https://www.amazon.com/Indian-Energy-Single-Pouches-Variety/dp/B09P72244C/ref=sr_1_1?crid=3AHH7YYUE7YME&keywords=nutri%2Bladdu&qid=1641355231&sprefix=nutri%2Bladdu%2Caps%2C82&sr=8-1&th=1" target="_blank">
-                                    <img src="/assets/images/logo/amazon.png" class="btn-amazon" />Buy Now On Amazon</a>
-                                
+
                                 <h6 class="mt-4">Other beneficial ingredients in this flavor include:</h6>
                                 <ol class="font-weight-semibold mt-2">
                                     <li>Coconut to support healthy bones and the metabolism of carbs which lowers cholesterol.</li>
@@ -167,26 +186,10 @@
                                     <li>Himalayan Salt for a delicious finish that promotes balanced electrolytes to help your body maintain homeostasis.</li>
                                     <li>Flaxseed which is loaded with nutrients and omega-3 healthy fats. These seeds are also rich in dietary fiber and can improve cholesterol as well as lower blood pressure.</li>
                                 </ol>
-                                
                             </div>
                         </div>
 
-                        <div class="font-weight-semibold entity-details-list">
-                            <section class="customer-logos slider">
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/flaxseed/1.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/flaxseed/2.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/flaxseed/3.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/flaxseed/4.png" />
-                                </div>
-                            </section>
-                        </div>
+
 
                     </div>
                 </section>

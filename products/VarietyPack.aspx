@@ -142,16 +142,92 @@
                                 <div class="position-relative entity-image">
                                     <img class="w-100" src="/assets/images/products/VarietyPack.jpg" alt="Variety Pack">
                                 </div>
-
-                                <div class="mt-4 mb-4 entity-body">
-                                    <p>Enjoy this delicious guilt free snack that will satisfy your cravings and provide an energy boost to get you through the day. Our mouth-watering nutrient-dense energy balls are made with healthy ingredients with a base of nuts and dates. Dates are naturally sweet and high in fiber and disease-fighting antioxidants while nuts have healthy fats and are a great source of fiber and protein.</p>
-                                </div>
                             </div>
-                            <div class="col">
+                            <div class="col-md-6">
                                 <h2 class="mb-2 entity-title">Variety Pack</h2>
                                 <div class="mb-3 entity-price"><span class="entity-price-current">$9.95 (Box of 5 Pouches)</span></div>
                                 <a class="btn-wide mr-2 btn btn-theme" href="https://www.amazon.com/Indian-Energy-Single-Pouches-Variety/dp/B09NBMWJQF/ref=sr_1_1?crid=3AHH7YYUE7YME&keywords=nutri+laddu&qid=1641355231&sprefix=nutri+laddu%2Caps%2C82&sr=8-1" target="_blank">
                                     <img src="/assets/images/logo/amazon.png" class="btn-amazon" />Buy Now On Amazon</a>
+
+                                <div class="font-weight-semibold entity-details-list mt-4">
+                                    <section class="customer-logos slider">
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/chocolate/1.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/chocolate/2.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/chocolate/3.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/chocolate/4.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/chocolate/5.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/athlete/1.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/athlete/2.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/athlete/3.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/athlete/4.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/athlete/5.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/darkdelight/1.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/darkdelight/2.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/darkdelight/3.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/darkdelight/4.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/flaxseed/1.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/flaxseed/2.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/flaxseed/3.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/flaxseed/4.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/original/1.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/original/2.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/original/3.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/original/4.png" />
+                                        </div>
+                                        <div class="slide">
+                                            <img class="img-thumbnail" src="/assets/images/products/original/5.png" />
+                                        </div>
+                                    </section>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="mb-4 entity-body">
+                                    <p>Enjoy this delicious guilt free snack that will satisfy your cravings and provide an energy boost to get you through the day. Our mouth-watering nutrient-dense energy balls are made with healthy ingredients with a base of nuts and dates. Dates are naturally sweet and high in fiber and disease-fighting antioxidants while nuts have healthy fats and are a great source of fiber and protein.</p>
+                                </div>
 
                                 <h6 class="mt-4">Other beneficial ingredients in this flavor include:</h6>
                                 <ol class="font-weight-semibold mt-2">
@@ -165,81 +241,6 @@
                                 </ol>
                             </div>
                         </div>
-
-                        <div class="font-weight-semibold entity-details-list">
-                            <section class="customer-logos slider">
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/chocolate/1.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/chocolate/2.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/chocolate/3.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/chocolate/4.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/chocolate/5.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/athlete/1.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/athlete/2.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/athlete/3.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/athlete/4.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/athlete/5.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/darkdelight/1.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/darkdelight/2.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/darkdelight/3.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/darkdelight/4.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/flaxseed/1.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/flaxseed/2.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/flaxseed/3.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/flaxseed/4.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/original/1.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/original/2.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/original/3.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/original/4.png" />
-                                </div>
-                                <div class="slide">
-                                    <img class="img-thumbnail" src="/assets/images/products/original/5.png" />
-                                </div>
-                            </section>
-                        </div>
-
                     </div>
                 </section>
             </div>
@@ -251,7 +252,7 @@
     <script>
         $(document).ready(function () {
             $('.customer-logos').slick({
-                slidesToShow: 4,
+                slidesToShow: 2,
                 slidesToScroll: 1,
                 autoplay: true,
                 autoplaySpeed: 1500,
