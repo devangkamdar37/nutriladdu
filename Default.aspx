@@ -1,8 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cph_head" runat="Server">
-    <link href="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/theme.scss.css" rel="stylesheet" type="text/css" media="all">
-    <link href="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/custom.scss.css" rel="stylesheet" type="text/css" media="all">
     <!-- Bootstrap core CSS -->
     <%--<link href="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/bootstrap.min.css" rel="stylesheet">--%>
 

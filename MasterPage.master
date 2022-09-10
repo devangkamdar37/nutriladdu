@@ -15,7 +15,13 @@
     <link href="/assets/slick/slick.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&amp;display=swap" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet" type="text/css">
+
+    <link href="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/theme.scss.css" rel="stylesheet" type="text/css" media="all">
+    <%--<link href="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/custom.scss.css" rel="stylesheet" type="text/css" media="all">--%>
+
     <link href="/assets/css/theme.min.css" rel="stylesheet" type="text/css">
+
+
     <asp:ContentPlaceHolder ID="cph_head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -65,33 +71,7 @@
             </div>
         </header>--%>
         <div id="shopify-section-header" class="shopify-section">
-            <div id="SearchDrawer" class="search-bar drawer drawer--top" role="dialog" aria-modal="true" aria-label="Search" data-predictive-search-drawer="">
-                <div class="search-bar__interior">
-                    <div class="search-form__container" data-search-form-container="">
-                        <div class="search-form search-bar__form">
-                            <div class="search-form__input-wrapper">
-                                <input type="text" name="q" placeholder="Search" role="combobox" aria-autocomplete="list" aria-owns="predictive-search-results" aria-expanded="false" aria-label="Search" aria-haspopup="listbox" class="search-form__input search-bar__input" data-predictive-search-drawer-input="">
-                                <input type="hidden" name="options[prefix]" value="last" aria-hidden="true">
-                                <div class="predictive-search-wrapper predictive-search-wrapper--drawer" data-predictive-search-mount="drawer"></div>
-                            </div>
 
-                            <button class="search-bar__submit search-form__submit" type="submit" data-search-form-submit="">
-                                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40">
-                                    <path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
-                                <span class="icon__fallback-text">Submit</span>
-                            </button>
-                        </div>
-
-                        <div class="search-bar__actions">
-                            <button type="button" class="btn--link search-bar__close js-drawer-close">
-                                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40">
-                                    <path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"></path></svg>
-                                <span class="icon__fallback-text">Close search</span>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div data-section-id="header" class="fixed-top" data-section-type="header-section" id="main--header" data-header-section="">
 
 
@@ -110,24 +90,18 @@
                 </style>
 
                 <div class="announcement-bar" role="region" aria-label="Announcement">
-                    <a href="https://www.poplettes.com/collections/our-products" class="announcement-bar__link">
+                    <a href="#" class="announcement-bar__link">
                         <p class="announcement-bar__message">“FREE SHIPPING ON ALL ORDERS! (Exclusions Apply)”</p>
                     </a>
                 </div>
                 <header role="banner">
                     <!-- New Header Start -->
 
-                    <div class="shop_btn">
-                        <a href="https://www.poplettes.com/collections/our-products">
-                            <img class="marge-img lazyloaded" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/files/shop-btn_1_500x.png?v=1609774175" alt="Image" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/shop-btn_1_500x.png">
-                        </a>
-                    </div>
-
                     <!-- Header Start -->
                     <div class="main-header" id="headerId">
                         <nav class="navbar navbar-expand-lg justify-content-lg-center">
                             <div class="col-2 offset-lg-1">
-                                <a class="navbar-brand m-0" href="https://www.poplettes.com/">
+                                <a class="navbar-brand m-0" href="/Default.aspx">
                                     <img class="logoImage" src="/assets/images/logo/NutriLaddu.png" alt="NutriLaddu" style="max-width: 100px !important;" />
                                     <%--<img class="logoImage" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/main-logo_500x.png" alt="">--%>
                                 </a>
@@ -135,13 +109,22 @@
                             <div class="collapse navbar-collapse  left-navbar-collapse m-l-120" id="navbarNav">
                                 <ul class="navbar-nav">
                                     <li class="nav-item dropdown active">
-                                        <a class="nav-link dropdown-toggle waves-effect waves-light" href="https://www.poplettes.com/#" id="shop" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SHOP
+                                        <a class="nav-link dropdown-toggle waves-effect waves-light" href="#" id="shop" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products
                                            
                                             <div class="uipl-sub-menu-arrow"><span></span></div>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="shop">
-                                            <a class="dropdown-item waves-effect waves-light" href="https://www.poplettes.com/products/white-cheddar">White Cheddar</a>
-                                            <a class="dropdown-item waves-effect waves-light" href="https://www.poplettes.com/products/sea-salt">Sea Salt</a>
+                                            <a class="dropdown-item waves-effect waves-light" href="/Products/Chocolate">Chocolate</a>
+                                            <a class="dropdown-item waves-effect waves-light" href="/Products/DarkDelight">Dark Delight</a>
+                                            <a class="dropdown-item waves-effect waves-light" href="/Products/Flaxseed">Flaxseed</a>
+                                            <a class="dropdown-item waves-effect waves-light" href="/Products/Original">Original</a>
+                                            <a class="dropdown-item waves-effect waves-light" href="/Products/Athlete">Athlete</a>
+                                            <a class="dropdown-item waves-effect waves-light" href="/Products/VarietyPack">Variety Pack</a>
+                                            <a class="dropdown-item last-one waves-effect waves-light" href="#">Shop All
+                                                <img class="shop-menu-img" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/shop-menu-img_1_300x.png" alt="">
+                                            </a>
+                                            <%-- <a class="dropdown-item waves-effect waves-light" href="https://www.poplettes.com/products/white-cheddar">Chocolate</a>
+                                            <a class="dropdown-item waves-effect waves-light" href="https://www.poplettes.com/products/sea-salt">Dark Delight</a>
                                             <a class="dropdown-item waves-effect waves-light" href="https://www.poplettes.com/products/bollowood-masala">Bollywood Masala</a>
                                             <a class="dropdown-item waves-effect waves-light" href="https://www.poplettes.com/products/mediterranean-magic">Mediterranean Magic</a>
                                             <a class="dropdown-item waves-effect waves-light" href="https://www.poplettes.com/products/cocoa-cinnamon">Cocoa Cinnamon</a>
@@ -152,23 +135,29 @@
                                                 <img class="right-icon ml-2 d-none d-md-flex" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/menu-arrow-right.svg" alt="Image">
                                                 <img class="right-icon ml-2 d-flex d-md-none" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/menu-arrow-right-orenge.svg" alt="Image">
                                                 <img class="shop-menu-img" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/shop-menu-img_1_300x.png" alt="">
-                                            </a>
+                                            </a>--%>
                                         </div>
                                     </li>
-                                    <li class="nav-item dropdown active">
-                                        <a class="nav-link dropdown-toggle waves-effect waves-light" href="https://www.poplettes.com/#" id="our-story" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">OUR STORY
-                                           
-                                            <div class="uipl-sub-menu-arrow"><span></span></div>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/AboutUs">About
                                         </a>
-                                        <div class="dropdown-menu" aria-labelledby="our-story">
-                                            <a class="dropdown-item waves-effect waves-light" href="https://www.poplettes.com/pages/our-story">Our Story</a>
-                                            <a class="dropdown-item waves-effect waves-light" href="https://www.poplettes.com/pages/our-mission">Our Mission</a>
-                                            <a class="dropdown-item waves-effect waves-light" href="https://www.poplettes.com/pages/our-ancient-grain">Our Ancient Grain</a>
-                                        </div>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/Contact">Contact
+                                        </a>
                                     </li>
                                 </ul>
                             </div>
-
+                            <div class="collapse navbar-collapse  left-navbar-collapse m-l-120" id="navbarNav">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item">
+                                        <a class="footer-socials-link" href="https://www.facebook.com/Nutri-Laddu-112025991269469"><i class="fab fa-facebook-square fa-2x"></i></a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="footer-socials-link" href="https://www.instagram.com/nutriladdu/"><i class="fab fa-instagram fa-2x"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
                         </nav>
                     </div>
                     <!-- Header End -->
