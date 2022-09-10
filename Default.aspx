@@ -1,88 +1,64 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cph_head" runat="Server">
+    <link href="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/theme.scss.css" rel="stylesheet" type="text/css" media="all">
+    <link href="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/custom.scss.css" rel="stylesheet" type="text/css" media="all">
+    <!-- Bootstrap core CSS -->
+    <%--<link href="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/bootstrap.min.css" rel="stylesheet">--%>
+
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cph_content" runat="Server">
-    <section class="white-curve-after chocolate-curve-after after-head slick-top-full">
-        <div class="slick-view-banner slick-carousel" data-slider="top-side-dots">
-            <div class="slick-slides">
-                <div class="slick-slide">
-                    <div class="entity-banner section-white-text content-offs section-solid with-back">
-                        <div class="overflow-back bg-lighten opacity-70"></div>
-                        <div class="container text-center entity-content">
-                            <div class="my-auto row">
-                                <div class="col-lg-12 mx-auto">
-                                    <img src="assets/images/slider/1.png" class="img-fluid"/>
-                                    <%--<img src="assets/images/products/VarietyPack.png" class="img-fluid" alt="VarietyPack"/>--%>
-                                </div>
+    
+    <div class="page-container drawer-page-content" id="PageContainer">
+        <main class="main-content js-focus-hidden" id="MainContent" role="main" tabindex="-1">
+
+            <div id="shopify-section-1609270638eec735ae" class="shopify-section">
+                <div class="home-banner wow fadeIn lazyloaded" style="background-image: url(&quot;//cdn.shopify.com/s/files/1/0478/1608/1558/files/home-banner-img_1000x.png?v=1609270869&quot;); visibility: visible; animation-name: fadeIn;">
+                    <!-- home-banner-img.svg -->
+                    <div class="row justify-content-center banner-middle-content wow zoomIn" style="visibility: visible; animation-name: zoomIn;">
+                        <div class="col-12 col-lg-8 text-center d-flex flex-column justify-content-center col-wrapper">
+
+                            <img class="main-img d-block mx-auto lazyloaded" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/files/banner-text-big_60bff786-3aa9-4f02-8c5a-e0544fa4957f_1000x.png?v=1609270707" alt="" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/banner-text-big_60bff786-3aa9-4f02-8c5a-e0544fa4957f_1000x.png">
+
+
+                            <div class="btnWrapper">
+                                <a href="https://www.poplettes.com/collections/our-products" class="btn white-btn waves-effect waves-light">BUY NOW
+                                </a>
                             </div>
+
+
+                            <img class="btm-text-img d-block mx-auto lazyloaded" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/files/btm-text_1000x.png?v=1609270855" alt="" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/btm-text_1000x.png">
                         </div>
                     </div>
-                </div>
-                <div class="slick-slide">
-                    <div class="entity-banner section-white-text content-offs section-solid with-back">
-                        <div class="overflow-back bg-chocolate opacity-70"></div>
-                        <div class="container text-center entity-content">
-                            <div class="my-auto row">
-                                <div class="col-lg-12 mx-auto">
-                                    <img src="/assets/images/products/Chocolate.png" class="img-fluid" alt="Chocolate" />
-                                </div>
-                            </div>
-                        </div>
+
+                    <div class="left-elements">
+
+                        <img class="left-top-img lazyloaded" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/files/left-top-img_1_1000x.png?v=1609270999" alt="" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/left-top-img_1_1000x.png">
+
+
+                        <img class="left-btm-img lazyloaded" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/files/left-btm-img_1_1000x.png?v=1609271054" alt="" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/left-btm-img_1_1000x.png">
+
+                        <!-- popcorn Images -->
+                        <img class="pop4-img wow zoomIn lazyloaded" data-wow-delay="0.6s" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/t/23/assets/popcon5.png?v=19147478823691899991615387013" alt="Image" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/popcon5.png" style="visibility: visible; animation-delay: 0.6s; animation-name: zoomIn;">
+                        <img class="pop5-img wow zoomIn lazyloaded" data-wow-delay="0.10s" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/t/23/assets/popcon5.png?v=19147478823691899991615387013" alt="Image" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/popcon5.png" style="visibility: visible; animation-delay: 0.1s; animation-name: zoomIn;">
+                        <img class="pop6-img wow zoomIn lazyloaded" data-wow-delay="0.14s" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/t/23/assets/popcon4.png?v=166209104024734234291615387013" alt="Image" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/popcon4.png" style="visibility: visible; animation-delay: 0.14s; animation-name: zoomIn;">
                     </div>
-                </div>
-                <div class="slick-slide">
-                    <div class="entity-banner section-white-text content-offs section-solid with-back">
-                        <div class="overflow-back bg-darkdelight opacity-70"></div>
-                        <div class="container text-center entity-content">
-                            <div class="my-auto row">
-                                <div class="col-lg-12 mx-auto">
-                                    <img src="/assets/images/products/Dark_Delight.png" class="img-fluid" alt="Dark Delight" />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="slick-slide">
-                    <div class="entity-banner section-white-text content-offs section-solid with-back">
-                        <div class="overflow-back bg-original opacity-70"></div>
-                        <div class="container text-center entity-content">
-                            <div class="my-auto row">
-                                <div class="col-lg-12 mx-auto">
-                                    <img src="/assets/images/products/The_Origional.png" class="img-fluid" alt="Original" />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="slick-slide">
-                    <div class="entity-banner section-white-text content-offs section-solid with-back">
-                        <div class="overflow-back bg-flaxseed opacity-70"></div>
-                        <div class="container text-center entity-content">
-                            <div class="my-auto row">
-                                <div class="col-lg-12 mx-auto">
-                                    <img src="/assets/images/products/Flaxseed.png" class="img-fluid" alt="Flaxseed" />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="slick-slide">
-                    <div class="entity-banner section-white-text content-offs section-solid with-back">
-                        <div class="overflow-back bg-athlete opacity-70"></div>
-                        <div class="container text-center entity-content">
-                            <div class="my-auto row">
-                                <div class="col-lg-12 mx-auto">
-                                    <img src="/assets/images/products/The_Athlete.png" class="img-fluid" alt="Athlete" />
-                                </div>
-                            </div>
-                        </div>
+                    <div class="right-elements">
+
+                        <img class="right-top-img lazyloaded" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/files/right-top-product_1_1000x.png?v=1609271117" alt="" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/right-top-product_1_1000x.png">
+
+
+                        <img class="right-btm-img lazyloaded" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/files/Group_641_1000x.png?v=1612342568" alt="" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/Group_641_1000x.png">
+
+                        <!-- popcorn Images -->
+                        <img class="pop1-img wow zoomIn lazyloaded" data-wow-delay="0.8s" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/t/23/assets/popcon1.png?v=19429691887580451581615387011" alt="Image" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/popcon1.png" style="visibility: visible; animation-delay: 0.8s; animation-name: zoomIn;">
+                        <img class="pop2-img wow zoomIn lazyloaded" data-wow-delay="0.12s" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/t/23/assets/popcon2.png?v=139840065554554783201615387012" alt="Image" style="visibility: visible; animation-delay: 0.12s; animation-name: zoomIn;" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/popcon2.png">
+                        <img class="pop3-img wow zoomIn lazyloaded" data-wow-delay="0.15s" data-src="//cdn.shopify.com/s/files/1/0478/1608/1558/t/23/assets/popcon3.png?v=134069369061041571821615387012" alt="Image" style="visibility: visible; animation-delay: 0.15s; animation-name: zoomIn;" src="./Poplettes _ Popped Sorghum Snack (Gluten-free, Ancient Grain, non-GMO)_files/popcon3.png">
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
+        </main>
+    </div>
     <section class="section-solid darkdelight-curve-after p-5 bg-chocolate">
         <div class="container">
             <div class="entity-simple">
