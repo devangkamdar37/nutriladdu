@@ -420,7 +420,7 @@ a {
 
 .bg-chocolate {
     background-color: #FE9900 !important;
-    background-image: url('../images/parts/chocolate-curve.png') !important;
+    /*background-image: url('../images/parts/chocolate-curve.png') !important ;*/
 }
 
 .bg-darkdelight {
@@ -1785,7 +1785,7 @@ a {
 }
 
 .section-back-text {
-    font-size: 17vw;
+    font-size: 20vw;
     max-width: 100vw;
     overflow: hidden;
     position: absolute;
@@ -3751,7 +3751,7 @@ header {
 
     .header-horizontal .navbar-toggler {
         margin-left: auto;
-        color: inherit;
+        color: black;
         font-size: 1.5rem;
         line-height: 3rem;
         width: 3rem;
@@ -3765,7 +3765,7 @@ header {
     }
 
         .header-horizontal .navbar-toggler:hover {
-            color: inherit
+            color: blanchedalmond;
         }
 
     .header-horizontal .navbar-nav > .nav-item > .nav-link {
@@ -4120,7 +4120,7 @@ header {
     left: 0;
     top: 0;
     width: 100%;
-    background-color: transparent
+    background-color: transparent;
 }
 
 .header-view-side .navbar {
@@ -4185,7 +4185,7 @@ header {
 
 @media (min-width:992px) {
     .header-view-side .navbar {
-        height: 13rem
+        height: 8.6rem
     }
 
     .header-view-side + .after-head .content-offs {

@@ -58,8 +58,8 @@
             </div>
         </div>
     </section>
-    <section class="white-curve-before curve-before-60">
-        <div class="section-map-container container mt-5 bg-lighten">
+    <section class="">
+        <div class="section-map-container container mt-5 mb-5 bg-lighten">
             <div class="text-center grid row">
                 <div class="col-md-4">
                     <h4 class="entity-title">Address</h4>
