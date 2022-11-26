@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "nutriladdu(1)", "..\nutriladdu", "{7EA0A8FE-3F76-49E5-B95F-9AAD5105C8CE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51679"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\Anjali\GitHubNutriLaddu\nutriladdu\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51679\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51679"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\Anjali\GitHubNutriLaddu\nutriladdu\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51679\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51679"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA0A8FE-3F76-49E5-B95F-9AAD5105C8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA0A8FE-3F76-49E5-B95F-9AAD5105C8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DE0BAE9-5876-488E-9B66-33FCDE23BD2A}
+	EndGlobalSection
+EndGlobal
