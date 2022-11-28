@@ -19,10 +19,11 @@
     <asp:ContentPlaceHolder ID="cph_head" runat="server">
     </asp:ContentPlaceHolder>
     <style>
-        .navbar-nav{
-            color:black !important;
+        .navbar-nav {
+            color: black !important;
         }
     </style>
+   
 </head>
 <body class="body">
     <form id="form1" runat="server">
@@ -118,7 +119,7 @@
                         <div class="grid row">
                             <div class="col-md-6 col-lg-3 text-center">
                                 <a class="navbar-brand" href="/Default">
-                                    <img src="/assets/images/logo/NutriLaddu.png" style="max-width:150px !important;" class="img-fluid"/></a>
+                                    <img src="/assets/images/logo/NutriLaddu.png" style="max-width: 150px !important;" class="img-fluid" /></a>
                                 <div class="footer-socials"><a class="footer-socials-link" href="https://www.facebook.com/Nutri-Laddu-112025991269469"><i class="fab fa-facebook-square"></i></a><a class="footer-socials-link" href="https://www.instagram.com/nutriladdu/"><i class="fab fa-instagram"></i></a></div>
                             </div>
                             <div class="col-md-12 col-lg-6 order-md-last">
@@ -149,8 +150,11 @@
                                 <h5 class="footer-title">Our info</h5>
                                 <p class="footer-text-info">
                                     <a href="tel:(248) 962-3017">(248) 962-3017</a><br />
-                                    <a href="mailto:customercare@anjalini.com">customercare@anjalini</a><br /><hr />
-                                    Anjalini Foods USA LLC, <br />South Lyon, MI 48178
+                                    <a href="mailto:customercare@anjalini.com">customercare@anjalini.com</a><br />
+                                    <hr />
+                                    Anjalini Foods USA LLC,
+                                    <br />
+                                    South Lyon, MI 48178
                                 </p>
                             </div>
                         </div>
@@ -174,5 +178,10 @@
     <script async defer="defer" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKyaJLS2QDi9EecFyAEwyLTeuUA0oTGQE&amp;callback=initMap"></script>
     <asp:ContentPlaceHolder ID="cph_scripts" runat="server">
     </asp:ContentPlaceHolder>
+     <script type="text/javascript">
+        $('form button').on("click", function (e) {
+            e.preventDefault();
+        });
+    </script>
 </body>
 </html>

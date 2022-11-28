@@ -5944,7 +5944,7 @@ header {
 }
 
     .entity-hover-highlight:not(.entity-disabled):hover {
-        background-color: #ffb524;
+        background-color: #78e0f194;
         color: #fff
     }
 
