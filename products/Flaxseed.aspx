@@ -168,24 +168,10 @@
 
                             </div>
                             <div class="col-md-12">
-                                <div class="mb-4 entity-body">
-                                    <p>Enjoy this delicious guilt free snack that will satisfy your cravings and provide an energy boost to get you through the day. Our mouth-watering nutrient-dense energy balls are made with healthy ingredients with a base of nuts and dates. Dates are naturally sweet and high in fiber and disease-fighting antioxidants while nuts have healthy fats and are a great source of fiber and protein.</p>
+                                <div class="mt-3 mb-4 entity-body">
+                                    <h5>Description</h5>
+                                    <p>A delicious guilt free snack that is mild and perfectly nutty with a deep earthy appeal. It simply melts in the mouth. It has no added sugar. All the natural sweetness is from dates only. With all healthy ingredients it’s a snack you can feel good about.</p>
                                 </div>
-
-                                <div class="mb-4 entity-body">
-                                    <p>The Flaxseed flavor is mild and perfectly nutty with a deep earthy appeal that increases your natural energy. Our energy balls are packaged in pairs in a resealable pouch so they stay fresh and you can snack conveniently. It’s time to indulge and feel great!</p>
-                                </div>
-
-                                <h6 class="mt-4">Other beneficial ingredients in this flavor include:</h6>
-                                <ol class="font-weight-semibold mt-2">
-                                    <li>Coconut to support healthy bones and the metabolism of carbs which lowers cholesterol.</li>
-                                    <li>Acacia Gum which is known to lower cholesterol and helps promote healthy weightloss.</li>
-                                    <li>Sunflower Oil for energy, to improve digestion, strengthen your immune system, and promote a healthy heart.</li>
-                                    <li>Cardamom for flavor and is rich with antioxidants and diuretic properties that may lower blood pressure.</li>
-                                    <li>Nutmeg that soothes indigestion, strengthens cognitive function, detoxifies the body, boosts skin health, and reduces insomnia.</li>
-                                    <li>Himalayan Salt for a delicious finish that promotes balanced electrolytes to help your body maintain homeostasis.</li>
-                                    <li>Flaxseed which is loaded with nutrients and omega-3 healthy fats. These seeds are also rich in dietary fiber and can improve cholesterol as well as lower blood pressure.</li>
-                                </ol>
                             </div>
                         </div>
 

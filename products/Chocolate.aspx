@@ -174,7 +174,8 @@
 
                             <div class="col-md-12">
 
-                                <div class="mt-4 mb-4 entity-body">
+                                <div class="mt-3 mb-4 entity-body">
+                                    <h5>Description</h5>
                                     <p>These mouth-watering nutrient-dense energy balls are made with semi-sweet chocolate that gives a deliciously rich and satisfying taste you can enjoy whenever the moment strikes. They are made with all natural ingredients with a base of dates and almonds. Dates are naturally sweet and high in fiber while nuts have healthy fats and are a great source of fiber and protein.</p>
                                 </div>
                                

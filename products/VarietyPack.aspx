@@ -225,20 +225,10 @@
                             </div>
 
                             <div class="col-md-12">
-                                <div class="mb-4 entity-body">
-                                    <p>Enjoy this delicious guilt free snack that will satisfy your cravings and provide an energy boost to get you through the day. Our mouth-watering nutrient-dense energy balls are made with healthy ingredients with a base of nuts and dates. Dates are naturally sweet and high in fiber and disease-fighting antioxidants while nuts have healthy fats and are a great source of fiber and protein.</p>
+                                <div class="mt-3 mb-4 entity-body">
+                                    <h5>Description</h5>
+                                    <p>A sampler pack of all five delicious flavors - 5 pouches - 1 Original, 1 Chocolate, 1 Flaxseed, 1 Dark Delight, and 1 Athlete. Enjoy all five delicious flavors with distinct yummy taste. A convenient on-the-go snack pack helps you easily take it wherever you go. Plus, they all are gluten free, dairy free, vegan, and have no added sugar.</p>
                                 </div>
-
-                                <h6 class="mt-4">Other beneficial ingredients in this flavor include:</h6>
-                                <ol class="font-weight-semibold mt-2">
-                                    <li>Coconut to support healthy bones and the metabolism of carbs which lowers cholesterol.</li>
-                                    <li>Acacia Gum which is known to lower cholesterol and helps promote healthy weightloss.</li>
-                                    <li>Sunflower Oil for energy, to improve digestion, strengthen your immune system, and promote a healthy heart.</li>
-                                    <li>Cardamom for flavor and is rich with antioxidants and diuretic properties that may lower blood pressure.</li>
-                                    <li>Nutmeg that soothes indigestion, strengthens cognitive function, detoxifies the body, boosts skin health, and reduces insomnia.</li>
-                                    <li>Himalayan Salt for a delicious finish that promotes balanced electrolytes to help your body maintain homeostasis.</li>
-                                    <li>Whey Protein which promotes muscle growth, curbs hunger to aid weight-loss, reduces inflammation, lowers blood pressure, and enhances the body’s antioxidant defenses.</li>
-                                </ol>
                             </div>
                         </div>
                     </div>
