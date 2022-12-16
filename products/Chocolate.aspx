@@ -175,23 +175,9 @@
                             <div class="col-md-12">
 
                                 <div class="mt-4 mb-4 entity-body">
-                                    <p>Enjoy this delicious guilt free snack that will satisfy your cravings and provide an energy boost to get you through the day. Our mouth-watering nutrient-dense energy balls are made with healthy ingredients with a base of nuts and dates. Dates are naturally sweet and high in fiber and disease-fighting antioxidants while nuts have healthy fats and are a great source of fiber and protein.</p>
+                                    <p>These mouth-watering nutrient-dense energy balls are made with semi-sweet chocolate that gives a deliciously rich and satisfying taste you can enjoy whenever the moment strikes. They are made with all natural ingredients with a base of dates and almonds. Dates are naturally sweet and high in fiber while nuts have healthy fats and are a great source of fiber and protein.</p>
                                 </div>
-                                <div class="mb-4 entity-body">
-                                    <p>The Athlete flavor uses semi-sweet chocolate and whey protein isolate for a deliciously satisfying snack that fills you up and gives you energy to push through your day. Our energy balls are packaged in pairs in a resealable pouch so they stay fresh and you can snack conveniently. It’s time to indulge and feel great!</p>
-                                </div>
-
-
-                                <h6 class="mt-4">Other beneficial ingredients in this flavor include:</h6>
-                                <ol class="font-weight-semibold mt-2">
-                                    <li>Coconut to support healthy bones and the metabolism of carbs which lowers cholesterol.</li>
-                                    <li>Acacia Gum which is known to lower cholesterol and helps promote healthy weightloss.</li>
-                                    <li>Sunflower Oil for energy, to improve digestion, strengthen your immune system, and promote a healthy heart.</li>
-                                    <li>Cardamom for flavor and is rich with antioxidants and diuretic properties that may lower blood pressure.</li>
-                                    <li>Nutmeg that soothes indigestion, strengthens cognitive function, detoxifies the body, boosts skin health, and reduces insomnia.</li>
-                                    <li>Himalayan Salt for a delicious finish that promotes balanced electrolytes to help your body maintain homeostasis.</li>
-                                    <li>Whey Protein which promotes muscle growth, curbs hunger to aid weight-loss, reduces inflammation, lowers blood pressure, and enhances the body’s antioxidant defenses.</li>
-                                </ol>
+                               
                             </div>
                         </div>
 
