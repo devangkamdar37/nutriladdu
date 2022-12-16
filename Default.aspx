@@ -172,6 +172,10 @@
                 object-fit: contain;
             }
         }
+
+        .embed-responsive{
+            min-height:320px;
+        }
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cph_content" runat="Server">
@@ -322,7 +326,7 @@
     </section>
     <section class="section" data-slider="featured-products">
         <div class="section-head container left">
-            <div class="section-icon"><span class="svg-fill-crimson svg-content" data-svg="assets/images/svg/title-pepper.svg"></span></div>
+            <%--<div class="section-icon"><span class="svg-fill-crimson svg-content" data-svg="assets/images/svg/title-pepper.svg"></span></div>--%>
             <div class="section-head-content">
                 <h2 class="section-title">Products</h2>
             </div>
@@ -337,7 +341,7 @@
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
                             <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/products/laddu/Chocolate.png" alt=""></span><span class="with-back entity-preview-content"><span class="overflow-back bg-body-back opacity-70"></span><span class="m-auto h1 text-theme text-center"><i class="fas fa-shopping-cart"></i></span></span></a><div class="fill-color-line" data-role="fill-line">
+                                <img class="embed-responsive-item bg-athlete" src="assets/images/products/Athlete-removebg-preview.png" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
@@ -355,7 +359,7 @@
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
                             <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/Chocolate.jpg" alt=""></span><span class="with-back entity-preview-content"><span class="overflow-back bg-body-back opacity-70"></span><span class="m-auto h1 text-theme text-center"><i class="fas fa-shopping-cart"></i></span></span></a><div class="fill-color-line" data-role="fill-line">
+                                <img class="embed-responsive-item bg-chocolate" src="assets/images/products/BestSeller_Chocolate_new.png" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
@@ -363,9 +367,11 @@
                             <div class="entity-content">
                                 <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Chocolate</a></h4>
                                 <p class="entity-text">Enjoy this delicious guilt free snack that will satisfy your cravings and provide an energy boost to get you through the day. </p>
-                                <div class="entity-bottom-line">
-                                    <div class="entity-price"><span class="currency">$</span>9.95 <span class="price-unit">/ Box of 5 Pouches</span></div>
-                                    <%--<div class="entity-action-btns"><a class="btn-sm btn btn-theme" href="#">add to cart</a></div>--%>
+                                <div class="entity-bottom-line justify-content-center">
+                                    
+                                    <%--<div class="entity-price"><span class="currency">$</span>9.95 <span class="price-unit">/ Box of 5 Pouches</span></div>--%>
+                                    <div class="entity-action-btns "><a class=" btn-wider mr-2 btn btn-theme" href="https://www.amazon.com/Indian-Energy-Single-Pouches-Variety/dp/B09P715751/ref=sr_1_1?crid=3AHH7YYUE7YME&keywords=nutri%2Bladdu&qid=1641355231&sprefix=nutri%2Bladdu%2Caps%2C82&sr=8-1&th=1" target="_blank">
+                                    <img src="/assets/images/logo/amazon.png" class="btn-amazon" />Buy Now On Amazon</a></div>
                                 </div>
                             </div>
                         </article>
@@ -373,7 +379,7 @@
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
                             <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/DarkDelight.jpg" alt=""></span><span class="with-back entity-preview-content"><span class="overflow-back bg-body-back opacity-70"></span><span class="m-auto h1 text-theme text-center"><i class="fas fa-shopping-cart"></i></span></span></a><div class="fill-color-line" data-role="fill-line">
+                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/DarkDelight.jpg" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
@@ -391,7 +397,7 @@
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
                             <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/FlaxSeed.jpg" alt=""></span><span class="with-back entity-preview-content"><span class="overflow-back bg-body-back opacity-70"></span><span class="m-auto h1 text-theme text-center"><i class="fas fa-shopping-cart"></i></span></span></a><div class="fill-color-line" data-role="fill-line">
+                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/FlaxSeed.jpg" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
@@ -409,7 +415,7 @@
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
                             <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/Orignal.jpg" alt=""></span><span class="with-back entity-preview-content"><span class="overflow-back bg-body-back opacity-70"></span><span class="m-auto h1 text-theme text-center"><i class="fas fa-shopping-cart"></i></span></span></a><div class="fill-color-line" data-role="fill-line">
+                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/Orignal.jpg" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
@@ -427,7 +433,7 @@
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
                             <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/Athlete.jpg" alt=""></span><span class="with-back entity-preview-content"><span class="overflow-back bg-body-back opacity-70"></span><span class="m-auto h1 text-theme text-center"><i class="fas fa-shopping-cart"></i></span></span></a><div class="fill-color-line" data-role="fill-line">
+                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/Athlete.jpg" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
@@ -445,7 +451,7 @@
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
                             <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_4/Athlete-removebg-preview.png" alt=""></span><span class="with-back entity-preview-content"><span class="overflow-back bg-body-back opacity-70"></span><span class="m-auto h1 text-theme text-center"><i class="fas fa-shopping-cart"></i></span></span></a><div class="fill-color-line" data-role="fill-line">
+                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_4/Athlete-removebg-preview.png" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
@@ -463,7 +469,7 @@
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
                             <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/Athlete.jpg" alt=""></span><span class="with-back entity-preview-content"><span class="overflow-back bg-body-back opacity-70"></span><span class="m-auto h1 text-theme text-center"><i class="fas fa-shopping-cart"></i></span></span></a><div class="fill-color-line" data-role="fill-line">
+                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/Athlete.jpg" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
