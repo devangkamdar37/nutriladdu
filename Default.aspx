@@ -340,33 +340,34 @@
                 <div class="slick-slides">
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
-                            <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item bg-athlete" src="assets/images/products/Athlete-removebg-preview.png" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
+                            <a class="entity-preview-show-up entity-preview" href="../Products/Athlete"><span class="embed-responsive embed-responsive-4by3">
+                                <img class="embed-responsive-item bg-athlete" src="assets/images/products/Athlete-removebg.png" alt=""></span><span class="with-back entity-preview-content"></span></a>
+                                    <div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                 </div>
                             <div class="entity-content">
-                                <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Athlete</a></h4>
-                                <p class="entity-text">The Athlete flavor uses semi-sweet chocolate and whey protein isolate for a deliciously satisfying snack that fills you up and gives you energy to push through your day.</p>
-                                <div class="entity-bottom-line">
-                                    <div class="entity-price"><span class="currency">$</span>9.95 <span class="price-unit">/ Box of 5 Pouches</span></div>
-                                    <%--<div class="entity-action-btns"><a class="btn-sm btn btn-theme" href="#">add to cart</a></div>--%>
+                                <h4 class="entity-title"><a class="content-link" href="../Products/Athlete">Athlete</a></h4>
+                                    <div class="entity-bottom-line justify-content-center">
+                                    <%--<div class="entity-price"><span class="currency">$</span>9.95 <span class="price-unit">/ Box of 5 Pouches</span></div>--%>
+                                    <div class="entity-action-btns "><a class=" btn-wider mr-2 btn btn-theme" href="https://www.amazon.com/Indian-Energy-Single-Pouches-Variety/dp/B09P71M4CQ/ref=sr_1_1?crid=3AHH7YYUE7YME&keywords=nutri%2Bladdu&qid=1641355231&sprefix=nutri%2Bladdu%2Caps%2C82&sr=8-1&th=1" target="_blank">
+                                    <img src="/assets/images/logo/amazon.png" class="btn-amazon" />Buy Now On Amazon</a></div>
+                                    
                                 </div>
                             </div>
                         </article>
                     </div>
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
-                            <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item bg-chocolate" src="assets/images/products/BestSeller_Chocolate_new.png" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
+                            <a class="entity-preview-show-up entity-preview" href="../Products/Chocolate"><span class="embed-responsive embed-responsive-4by3">
+                                <img class="embed-responsive-item bg-chocolate" src="assets/images/products/Chocolate-removebg.png" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                 </div>
                             <div class="entity-content">
-                                <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Chocolate</a></h4>
-                                <p class="entity-text">Enjoy this delicious guilt free snack that will satisfy your cravings and provide an energy boost to get you through the day. </p>
+                                <h4 class="entity-title"><a class="content-link" href="../Products/Chocolate">Chocolate</a></h4>
                                 <div class="entity-bottom-line justify-content-center">
                                     
                                     <%--<div class="entity-price"><span class="currency">$</span>9.95 <span class="price-unit">/ Box of 5 Pouches</span></div>--%>
@@ -378,112 +379,78 @@
                     </div>
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
-                            <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/DarkDelight.jpg" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
+                            <a class="entity-preview-show-up entity-preview" href="../Products/DarkDelight"><span class="embed-responsive embed-responsive-4by3">
+                                <img class="embed-responsive-item bg-darkdelight" src="assets/images/products/DarkDelight-removebg.png" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                 </div>
                             <div class="entity-content">
-                                <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">DarkDelight</a></h4>
-                                <p class="entity-text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
-                                <div class="entity-bottom-line">
-                                    <div class="entity-price"><span class="currency">$</span>3.29 <span class="price-unit">/ kg</span></div>
-                                    <div class="entity-action-btns"><a class="btn-sm btn btn-theme" href="#">add to cart</a></div>
+                                <h4 class="entity-title"><a class="content-link" href="../Products/DarkDelight">Dark Delight</a></h4>
+                                <div class="entity-bottom-line justify-content-center">
+                                    <%--<div class="entity-price"><span class="currency">$</span>9.95 <span class="price-unit">/ Box of 5 Pouches</span></div>--%>
+                                    <div class="entity-action-btns "><a class=" btn-wider mr-2 btn btn-theme" href="https://www.amazon.com/Indian-Energy-Single-Pouches-Variety/dp/B09P71RRYS/ref=sr_1_1?crid=3AHH7YYUE7YME&keywords=nutri%2Bladdu&qid=1641355231&sprefix=nutri%2Bladdu%2Caps%2C82&sr=8-1&th=1" target="_blank">
+                                    <img src="/assets/images/logo/amazon.png" class="btn-amazon" />Buy Now On Amazon</a></div>
                                 </div>
                             </div>
                         </article>
                     </div>
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
-                            <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/FlaxSeed.jpg" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
+                            <a class="entity-preview-show-up entity-preview" href="../Products/FlaxSeed"><span class="embed-responsive embed-responsive-4by3">
+                                <img class="embed-responsive-item bg-flaxseed" src="assets/images/products/Flaxseed-removebg.png" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
                                     <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                     <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
                                 </div>
                             <div class="entity-content">
-                                <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">FlaxSeed</a></h4>
-                                <p class="entity-text">Fresh and tasty</p>
-                                <div class="entity-bottom-line">
-                                    <div class="entity-price"><span class="currency">$</span>3.99 <span class="price-unit">/ kg</span></div>
-                                    <div class="entity-action-btns"><a class="btn-sm btn btn-theme" href="#">add to cart</a></div>
+                                <h4 class="entity-title"><a class="content-link" href="../Products/FlaxSeed">FlaxSeed</a></h4>
+                                 <div class="entity-bottom-line justify-content-center">
+                                    <%--<div class="entity-price"><span class="currency">$</span>9.95 <span class="price-unit">/ Box of 5 Pouches</span></div>--%>
+                                    <div class="entity-action-btns "><a class=" btn-wider mr-2 btn btn-theme" href="https://www.amazon.com/Indian-Energy-Single-Pouches-Variety/dp/B09P72244C/ref=sr_1_1?crid=3AHH7YYUE7YME&keywords=nutri%2Bladdu&qid=1641355231&sprefix=nutri%2Bladdu%2Caps%2C82&sr=8-1&th=1" target="_blank">
+                                    <img src="/assets/images/logo/amazon.png" class="btn-amazon" />Buy Now On Amazon</a></div>
                                 </div>
                             </div>
                         </article>
                     </div>
                     <div class="slick-slide">
                         <article class="entity-block entity-hover-shadow">
-                            <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/Orignal.jpg" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
-                                    <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                    <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                    <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                </div>
+                            <a class="entity-preview-show-up entity-preview" href="../Products/Original"><span class="embed-responsive embed-responsive-4by3">
+                                <img class="embed-responsive-item bg-original" src="assets/images/products/Original-removebg.png" alt=""></span><span class="with-back entity-preview-content"></span></a>
+                           
                             <div class="entity-content">
-                                <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Orignal</a></h4>
-                                <p class="entity-text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
-                                <div class="entity-bottom-line">
-                                    <div class="entity-price"><span class="currency">$</span>12.50 <span class="price-unit">/ kg</span></div>
-                                    <div class="entity-action-btns"><a class="btn-sm btn btn-theme" href="#">add to cart</a></div>
+                                <h4 class="entity-title"><a class="content-link" href="../Products/Original">Orignal</a></h4>
+                                <%--<p class="entity-text">The Original flavor is indulgent and nutty and will help you feel grounded with the perfect balance of salty and sweet. Our energy balls are packaged in pairs in a resealable pouch so they stay fresh and you can snack conveniently. It’s time to indulge and feel great!</p>--%>
+                                 <div class="entity-bottom-line justify-content-center">
+                                    <%--<div class="entity-price"><span class="currency">$</span>9.95 <span class="price-unit">/ Box of 5 Pouches</span></div>--%>
+                                    <div class="entity-action-btns ">
+                                        <a class=" btn-wider mr-2 btn btn-theme" href="https://www.amazon.com/Indian-Energy-Single-Pouches-Variety/dp/B09P71VXZX/ref=sr_1_1?crid=3AHH7YYUE7YME&keywords=nutri%2Bladdu&qid=1641355231&sprefix=nutri%2Bladdu%2Caps%2C82&sr=8-1&th=1" target="_blank">
+                                    <img src="/assets/images/logo/amazon.png" class="btn-amazon" />Buy Now On Amazon</a></div>
                                 </div>
                             </div>
                         </article>
                     </div>
+                    
                     <div class="slick-slide">
-                        <article class="entity-block entity-hover-shadow">
-                            <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/Athlete.jpg" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
-                                    <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                    <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                    <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                </div>
-                            <div class="entity-content">
-                                <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Athlete</a></h4>
-                                <p class="entity-text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
-                                <div class="entity-bottom-line">
-                                    <div class="entity-price"><span class="currency">$</span>4.99 <span class="price-unit">/ kg</span></div>
-                                    <div class="entity-action-btns"><a class="btn-sm btn btn-theme" href="#">add to cart</a></div>
+                        <div class="entity-block entity-hover-shadow text-center">
+                            <div class="overflow-back bg-orange opacity-30"></div>
+                            <div class="transparent-image col-8 mx-auto mb-0 pt-5 entity-image">
+                               <a class="entity-image"  href="../Products/VarietyPack"><img class="mw-100" src="assets/images/products/VarietyPack.png" alt=""></a> 
+                            </div>
+                            <div class="align-items-center entity-content">
+                                <h4 class="entity-title"><a class="content-link" href="../Products/VarietyPack">Variety</a></h4>
+                                <div class="mt-3 entity-action-btns">
+                                    <div class="entity-action-btns "><a class="btn-wide mr-2 btn btn-theme" href="https://www.amazon.com/Indian-Energy-Single-Pouches-Variety/dp/B09NBMWJQF/ref=sr_1_1?crid=3AHH7YYUE7YME&keywords=nutri+laddu&qid=1641355231&sprefix=nutri+laddu%2Caps%2C82&sr=8-1" target="_blank">
+                                    <img src="/assets/images/logo/amazon.png" class="btn-amazon" />Buy Now On Amazon</a></div>
                                 </div>
                             </div>
-                        </article>
+                        </div>
+
                     </div>
-                    <div class="slick-slide">
-                        <article class="entity-block entity-hover-shadow">
-                            <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_4/Athlete-removebg-preview.png" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
-                                    <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                    <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                    <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                </div>
-                            <div class="entity-content">
-                                <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Pumpkin</a></h4>
-                                <p class="entity-text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
-                                <div class="entity-bottom-line">
-                                    <div class="entity-price"><span class="currency">$</span>19.99 <span class="price-unit">/ piece</span></div>
-                                    <div class="entity-action-btns"><a class="btn-sm btn btn-theme" href="#">add to cart</a></div>
-                                </div>
-                            </div>
-                        </article>
-                    </div>
-                    <div class="slick-slide">
-                        <article class="entity-block entity-hover-shadow">
-                            <a class="entity-preview-show-up entity-preview" href="shop-product-sidebar-right.html"><span class="embed-responsive embed-responsive-4by3">
-                                <img class="embed-responsive-item" src="assets/images/Home_Page/Section_2/Athlete.jpg" alt=""></span><span class="with-back entity-preview-content"></span></a><div class="fill-color-line" data-role="fill-line">
-                                    <div class="opacity-30 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                    <div class="opacity-60 fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                    <div class="fill-line-segment bg-theme" data-role="fill-line-segment" data-min-width="10" data-preffered-width="50" data-max-width="80"></div>
-                                </div>
-                            <div class="entity-content">
-                                <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Potato</a></h4>
-                                <p class="entity-text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
-                                <div class="entity-bottom-line">
-                                    <div class="entity-price"><span class="currency">$</span>1.80 <span class="price-unit">/ kg</span></div>
-                                    <div class="entity-action-btns"><a class="btn-sm btn btn-theme" href="#">add to cart</a></div>
-                                </div>
-                            </div>
-                        </article>
-                    </div>
+
+                    
+                    
+                    
                 </div>
             </div>
         </div>
